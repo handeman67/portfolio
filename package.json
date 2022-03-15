@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Steves Portfolio",
-  "main": "index1.js",
+  "main": "index1.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     
