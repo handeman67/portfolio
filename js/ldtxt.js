@@ -16,9 +16,9 @@ class loadText {
         };
 
         xhr.onerror = function() {
-            console.log('Request Error');
+            console.log(xhr,'Request Error');
         };
         xhr.send();
-        
+        return xhr.responseText;
     }
 }

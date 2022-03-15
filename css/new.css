@@ -128,7 +128,8 @@ flex-direction: row;
 .body{
   position: absolute;
 transform-origin: center;
-left:1re;
+top:0;
+left:0;
 right:0;
 bottom:0;
   overflow: auto;
@@ -136,7 +137,7 @@ bottom:0;
 }
 .mainImage {
   margin:0 auto;
-  position: relative;
+ 
   display: grid;
   place-content: center;
   width: 80%;
